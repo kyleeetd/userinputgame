@@ -1,0 +1,4 @@
+C:\Users\kingi\Desktop\charac\charac\obj\Debug\charac.csproj.AssemblyReference.cache
+C:\Users\kingi\Desktop\charac\charac\obj\Debug\charac.Properties.Resources.resources
+C:\Users\kingi\Desktop\charac\charac\obj\Debug\charac.csproj.GenerateResource.cache
+C:\Users\kingi\Desktop\charac\charac\obj\Debug\charac.csproj.CoreCompileInputs.cache
